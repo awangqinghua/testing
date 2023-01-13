@@ -9,3 +9,4 @@
 
 print("hello world!")
 print("xiaoming")
+print(5+5)
