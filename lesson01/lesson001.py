@@ -8,4 +8,4 @@
 
 
 print("hello world!")
-print("xiaoming")
+print("xiaomings")
