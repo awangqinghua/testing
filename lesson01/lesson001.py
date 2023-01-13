@@ -12,4 +12,3 @@ print("xiaomings")
 
 print("res")
 print(1+5)
-print(5+5)
