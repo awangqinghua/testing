@@ -11,3 +11,4 @@ print("hello world!")
 print("xiaomings")
 
 print("res")
+print(1+5)
