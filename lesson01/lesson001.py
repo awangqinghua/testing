@@ -7,5 +7,4 @@
 # @Software : PyCharm
 
 
-print("hello world!")
-print("xiaom")
+print("hello world")
